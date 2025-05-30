@@ -27,5 +27,3 @@ A Python-based chatbot with a humorous and playful tone, protected by a password
 2. Set a password when prompted
 3. Enter the same password to access the RAtlas chatbot
 4. Interact with the chatbot by selecting menu options
-
-## Example Output
